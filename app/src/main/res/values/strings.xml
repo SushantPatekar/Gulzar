@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Gulzar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="banner_home_footer">ca-app-pub-4989418157335741/2857949904</string>
+    <string name="ranklabel">" "</string>
+    <string name="countrylabel">"Country : "</string>
+    <string name="populationlabel">"Population : "</string>
+    <string name="home">Home</string>
+    <string name="savedArticle">Saved Article</string>
+    <string name="aboutGulzar">About Gulzar</string>
+    <string name="gulzarVideos">Gulzar Videos</string>
+    <string name="secondaryheader">मौत तू एक कविता है,
+मुझसे एक कविता का वादा है मिलेगी मुझको</string>
+    <string name="aboutGulzartext">\t\tSampooran Singh Kalra (born 18 August 1934), known popularly by his pen name Gulzar, is an Indian poet, lyricist and film director.Born in Jhelum District in British India,
+his family moved to India after partition. He started his career with music director S.D. Burman (lovingly known as Burman Dada) as a lyricist in the 1963 film Bandini and worked with many music directors including R. D. Burman, Salil Chowdhury, Vishal Bhardwaj and A. R. Rahman. He directed films such as Aandhi and Mausam during the 1970s and TV series Mirza Ghalib in the 1980s. He also directed Kirdaar in 1993.
+
+\n\n\t\tGulzar also wrote poetry, dialogues and scripts. He was awarded Padma Bhushan, the third-highest civilian award in India,the Sahitya Akademi Award and the Dadasaheb Phalke Award —
+the highest award in Indian cinema. He has won several Indian National Film Awards, 20 Filmfare Awards, one Academy Award and one Grammy Award.
+
+\n\n\n\t\tगुलज़ार आज यह नाम सफलता की उस बलंदी के लिए जाना जाता है जहाँ तक जाने के लिए हर कोई बेताब खड़ा है। गुल्ज़ार उन चंद नामी शायरों में से एक हैं जिन्होंने अपने गीतों, नज़्मों और कहानियों के लिए ख़्याति पायी। कुछ आगे ज़िक्र करूँ इससे पहले बताना चाहूँगा आज लगभग हर हिन्दी स्कूल में करायी जाने वाली प्रार्थना हम को मन की शक्ति देना दाता, मन विजय करें गुलज़ार का लिखा एक गीत है जो फ़िल्म गुड्डी से है। बच्चों के लिए लिखी गयी रचनाएँ जितनी गुलज़ार की सबकी ज़बाँ पर चढ़ीं शायद ही और कोई इतनी सरलता से हर नन्हें दिल में अपनी जगह बना पाया हो। अगर हम बात करें गुल्ज़ार द्वारा लिखे बाल-गीतों की तो सबसे पहले जंगल बुक का टायटल गीत जंगल-जंगल बात चली पता चला है, चड्ढी पहन के फूल खिला है फूल खिला है याद आता है, और भी हैं जैसे एलिस इन वन्डर लैण्ड का टिप-टिप टोपी-टोपी, काबुली वाला का आया झुन्नू वाला बाबा और अन्य कई फ़िल्मी गीत जैसे फ़िल्म मकड़ी का ए पापड़वाले पंगा न ले।
+\n\n\t\tगुलज़ार ने जब फ़िल्मी दुनिया में अपना स्थान बनाना चाहा तो उन्हें मौक़ा मिला बिमल राय जैसे महान फ़िल्मकार के साथ काम करने का, जिनसे उन्होंने निर्देशन का काम भली तरह समझा। फिर कोमल, सफल और सार्थक गीत लिखे, उनका हाथ यहीं तक सीमित नहीं रहा, आपने कई फ़िल्मों के लिए कथाएँ, पटकथाएँ और संवाद भी लिखे। जब फ़िल्म निर्देशन में उतरे तो ऐसी संवेदनशील, मार्मिम और हृदयस्पर्शी फ़िल्मों का निर्माण किया जिन्होंने फ़िल्म जगत में एक आन्दोलन ला दिया कि फ़िल्में सिर्फ़ चटपटी नहीं सादे-साधारण लोगों के जीवन पर आधारित भी हो सकती हैं और फ़िल्म देखने वालों के दिल में अपना नाम दर्ज़ करा सकने में गुल्ज़ार सफल होते चले गये और बस सफलता उनके पंख बन गयी जो कभी कटे नहीं और आज भी आकाश में दूर तक उड़ने को सदा तत्पर हैं। कुछ फ़िल्मों के नाम हैं जो सदा याद की जाती है और याद रखी जायेंगी, मेरे अपने, अचानक, परिचय, आँधी, मौसम, ख़ुशबू, मीरा, किनारा, नमकीन, लेकिन, लिबास, माचिस, इत्यादि।
+
+</string>
+    <string name="DEVELOPER_KEY">AIzaSyDOVQfSWqavrRvtrKIcQaNS_aq5yNBR7o0</string>
+</resources>
